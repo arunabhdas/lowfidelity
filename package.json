@@ -1,0 +1,23 @@
+{
+  "name": "lowfidelity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunabhdas/lowfidelity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunabhdas/lowfidelity/issues"
+  },
+  "homepage": "https://github.com/arunabhdas/lowfidelity#readme"
+}
